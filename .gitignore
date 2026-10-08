@@ -1,3 +1,7 @@
+# Игнорировать все .DS_Store
+**/.DS_Store
+**/._.DS_Store
+
 # Игнорировать всё в папке data, кроме .gitkeep
 data/*
 !data/.gitkeep
